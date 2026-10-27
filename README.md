@@ -1,5 +1,6 @@
-#**Kalle Anka**<br/>
-***Den perfekta maskoten för oss programmerare!***
+#**Kalle Anka**
+
+***Den perfekta maskoten för oss programmerare!*** (se [rubber duckig](https://en.wikipedia.org/wiki/Rubber_duck_debugging) för exempel på varför!)
 
 ***Fördelar:***
 
